@@ -1,0 +1,24 @@
+{
+  "name": "cryptocurrency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangta69/cryptoCurrency.git"
+  },
+  "author": "pondol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangta69/cryptoCurrency/issues"
+  },
+  "homepage": "https://github.com/wangta69/cryptoCurrency#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "trongrid": "^1.2.6",
+    "tronweb": "^2.10.2"
+  }
+}
